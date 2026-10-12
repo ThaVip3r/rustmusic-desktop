@@ -30,7 +30,7 @@ Merci de t'intéresser au projet ! Voici les éléments à connaître avant de p
 ### Internationalisation
 
 - **Toute string visible utilisateur doit passer par `$t('key')`**
-- Ajoute la clé dans les **5 locales** (`fr.json`, `en.json`, `de.json`, `es.json`, `it.json`) — un fichier non synchronisé est rejeté
+- Ajoute la clé dans les **7 locales** (`fr.json`, `en.json`, `de.json`, `es.json`, `it.json`, `ru.json`, `uk.json`) — un fichier non synchronisé est rejeté
 - Garde la structure hiérarchique cohérente (`settings.audio_quality_*`, etc.)
 
 ### SQL

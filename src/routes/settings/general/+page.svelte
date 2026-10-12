@@ -18,6 +18,8 @@
     { value: "es", label: "Español" },
     { value: "de", label: "Deutsch" },
     { value: "it", label: "Italiano" },
+    { value: "ru", label: "Русский" },
+    { value: "uk", label: "Українська" },
   ];
 
   const groupes = $derived.by((): { titre: string; hint: string; items: Interrupteur[] }[] => {

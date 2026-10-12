@@ -63,7 +63,7 @@ Lecture bit-perfect, DSD natif, une bibliothèque agréable à parcourir, sans c
 - Contrôles média du système (SMTC sous Windows, Now Playing sous macOS, MPRIS sous Linux) et touches multimédia du clavier
 - Mini-lecteur avec file d’attente et paroles synchronisées, minuteur de veille, statistiques d’écoute
 - Thèmes sombre, clair et contraste élevé, boutons de fenêtre configurables
-- Interface en **français, anglais, espagnol, allemand et italien**
+- Interface en **français, anglais, espagnol, allemand, italien, russe et ukrainien**
 - Mises à jour intégrées et signées
 
 ## Captures d’écran
