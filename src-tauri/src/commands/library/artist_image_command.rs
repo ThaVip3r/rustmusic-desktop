@@ -142,6 +142,8 @@ fn music_hint(lang: &str) -> &'static str {
         "es" => "música",
         "de" => "Musik",
         "it" => "musica",
+        "ru" => "музыка",
+        "uk" => "музика",
         _ => "music",
     }
 }

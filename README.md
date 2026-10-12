@@ -63,7 +63,7 @@ Bit-perfect playback, native DSD, a beautiful library, no account, no ads, no tr
 - System media controls (Windows SMTC, macOS Now Playing, Linux MPRIS) and keyboard media keys
 - Mini player with queue and synced lyrics, sleep timer, listening statistics
 - Dark, light and high-contrast themes, configurable window buttons
-- Interface in **English, French, Spanish, German and Italian**
+- Interface in **English, French, Spanish, German, Italian, Russian and Ukrainian**
 - Signed in-app updates
 
 ## Screenshots
